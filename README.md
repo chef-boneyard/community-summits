@@ -16,6 +16,7 @@ _If either of those links don’t exist first time round please feel free to cre
 * Community Summit
   * [Berlin](https://github.com/chef/community-summits/wiki/Berlin-2018)
   * [Chicago: ChefConf](https://github.com/chef/community-summits/wiki/Chicago-2018)
+  * [Seattle](https://github.com/chef/community-summits/wiki/Seattle-2018)
   
 ### 2017
 * Community Summit
